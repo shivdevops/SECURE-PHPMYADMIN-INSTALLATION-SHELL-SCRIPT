@@ -1,5 +1,3 @@
-# SECURE-PHPMYADMIN-INSTALLATION-SHELL-SCRIPT
-
 # SECURE_PHPMYADMIN_INSTALLATION
 
 * Installation script for Secure phpmyadmin  for linux ubuntu.
