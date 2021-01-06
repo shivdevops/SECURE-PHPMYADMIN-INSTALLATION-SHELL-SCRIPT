@@ -1,18 +1,18 @@
 # SECURE_PHPMYADMIN_INSTALLATION
 
-* Installation script for Secure phpmyadmin  for linux ubuntu.
-* Download the script.
-* Run the script with sudo.
+   **installation script for Secure phpmyadmin  for ubuntu OS's.**
+     
+   * Download the script.
+     
+   * Run the script with sudo.
 
+     ` ` ` sudo ./secure_phpmyadmin.sh ` ` `
 
-   ` ` ` sudo ./secure_phpmyadmin.sh ` ` `
+   * Change the file permission with 777
 
+      ` ` ` sudo chmod 777 secure_phpmyadmin.sh ` ` `
 
-Change the file permission with 777
-
- ` ` ` sudo chmod 777 secure_phpmyadmin.sh ` ` `
-
-# Note:
+## Note:
 
    Prerequisite for installation.Following prerequisite must installed before running the installation script.
 
